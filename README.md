@@ -99,7 +99,7 @@
 <h2><a href="https://www.researchgate.net/publication/376751387_Animal_Classification_using_Convolutional_Neural_Network">🌱 E-Learning Website ( VM ) ⚒️ in year 3 ✅ </a></h2>
 <p> we have build a website that's seem like E-learning platform the process is everyone can be a teacher or a student and if you are a teacher you will have the feature like copy link from youtube and make as your playlist and it's seem like social media you can follow each other </p>
 <h2><a href="https://www.researchgate.net/publication/376751387_Animal_Classification_using_Convolutional_Neural_Network">🌱 Traffic Streaming Analysis in year 3 ✅ </a></h2>
-<p> In this project we working on big data project mostly we focus on flow of data such as handle real-time streaming we are using hadoop for store data and we are using NiFi for ingestion data from local storage to HDFS </p>
+<p> In this project we working on big data project mostly we focus on flow of data such as handle real-time streaming we are using hadoop for store data and we are using NiFi for ingestion data from local storage to HDFS and we are using kafka for streaming analysis also, and we are involved data transformation, data processing, data visualization by using Power BI and etc ...</p>
 
 <h3>Open source projects</h3>
 <table>
