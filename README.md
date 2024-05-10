@@ -68,7 +68,7 @@
 
 <h2 align=left>🚀 bachelor's degree activities:</h2>
 <h2><a href="https://www.facebook.com/UniversityIndustryCooperationCenter">🌱 Teacher assistant  </a></h2>
-<p> I worked as teacher assistant and advisor to student around 30 teams for complete their project in their semester.  </p>
+<p> I worked as teacher assistant and advise to student around 30 teams for complete their project in their semester.  </p>
 
 <h3>Open source projects</h3>
 <table>
