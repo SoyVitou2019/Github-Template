@@ -67,8 +67,8 @@
 
 
 <h2 align=left>🚀 Bachelor's degree activities:</h2>
-<h2><a href="https://www.facebook.com/UniversityIndustryCooperationCenter">🌱 Teacher assistant  </a></h2>
-<p> I worked as teacher assistant and advise to student around 30 teams for complete their project in their semester.  </p>
+<h2><a href="https://www.facebook.com/UniversityIndustryCooperationCenter">🌱 Teacher assistant </a></h2>
+<p> I worked as teacher assistant and advise to student around 30 teams for complete their project in two year they are in year 2.  </p>
 <h2><a href="https://www.facebook.com/UniversityIndustryCooperationCenter">🌱 Mentoring at Heineken Sustainathon  </a></h2>
 <p> this involves student for build their innovative ideas as the prototype for competitive  </p>
 <h2><a href="https://www.facebook.com/UniversityIndustryCooperationCenter">📝 Interviewer in C4C offered by USAID  </a></h2>
@@ -102,6 +102,8 @@
 <p> In this research we adjust a little bit of architecture and the main thing in this research is about dataset, we try to figure out of abusive image </p>
 <h2><a href="">🌱 Real-time Chat App in year 2 </a></h2>
 <p> In this project I'm using Node Js and express Js as backend for broadcast message and deploy this application with share hosting render.com. </p>
+<h2><a href="">🌱 Attendance System Tracking using Facial recognition in year 3 </a></h2>
+<p> this website and system we are using laravel for full stack and we deploy it by using docker, and for attendance tracking we are using face recognition by using python and apply it in raspberrypi for recording attendance  </p>
 
 <h3>Open source projects</h3>
 <table>
