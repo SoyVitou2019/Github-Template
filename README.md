@@ -101,7 +101,7 @@
 <h2><a href="">🌱 Abusive classification using Hybrid model in year 3 </a></h2>
 <p> In this research we adjust a little bit of architecture and the main thing in this research is about dataset, we try to figure out of abusive image </p>
 <h2><a href="">🌱 Real-time Chat App in year 2 </a></h2>
-<p> In this project I'm using Node Js and express Js as backend for broadcast message and using render server for hosting and deploy this application with share hosting render.com. </p>
+<p> In this project I'm using Node Js and express Js as backend for broadcast message and deploy this application with share hosting render.com. </p>
 
 <h3>Open source projects</h3>
 <table>
