@@ -52,7 +52,7 @@
 
 #
 
-<h2 align=left>🚀 Key Achievements:</h2>
+<h1 align=left>🚀 Key Achievements:</h1>
 <h2><a href="https://www.researchgate.net/publication/376751387_Animal_Classification_using_Convolutional_Neural_Network">🏆 Best Award-Paper </a> </h2>
 <p>Recognized by CADT 2th student conference digital technology ( SCDT ), topic is research about Animal Classification using Convolutional Neural Network. We focus on which algorithm is the best one for animal classification using CNN</p>
 <h2><a href="https://www.researchgate.net/publication/376751358_Animal_Classification_using_Hybrid_Model">🥈 Top-2 Engineering Day Year2 Competition </a></h2> 
@@ -66,7 +66,7 @@
 <br />
 
 
-<h2 align=left>🚀 Bachelor's degree activities:</h2>
+<h1 align=left>🚀 Bachelor's degree activities:</h1>
 <h2><a href="https://www.facebook.com/UniversityIndustryCooperationCenter">🌱 Teacher assistant </a></h2>
 <p> I worked as teacher assistant and advise to student around 30 teams for complete their project in two year they are in year 2.  </p>
 <h2><a href="https://www.facebook.com/UniversityIndustryCooperationCenter">🌱 Mentoring at Heineken Sustainathon  </a></h2>
@@ -77,7 +77,7 @@
 <p> I am a founder of Game Club with Koungmeng and still operate it for a year, we have a lot of activites such as game jam, game development, game competition, Casual games etc ...  </p>
 
 
-<h2 align=left>🚀 Bachelor's degree project:</h2>
+<h1 align=left><b>🚀 Bachelor's degree project:</b></h1>
 <h2><a href="https://www.researchgate.net/publication/376751387_Animal_Classification_using_Convolutional_Neural_Network">🌱 7-Segment Display in year 1  </a></h2>
 <p> It's a type of electronic display device that can show numerals and some basic characters by illuminating specific segments. It consists of seven individual segments arranged in the shape of the number "8." Each segment can be independently controlled to display different numbers or characters. </p>
 <h2><a href="">🌱 Liquid Crystal Display in year 1 ( LCD ) </a></h2>
