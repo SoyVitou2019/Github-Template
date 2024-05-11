@@ -103,7 +103,7 @@
 <h2><a href="">🌱 Real-time Chat App in year 2 </a></h2>
 <p> In this project I'm using Node Js and express Js as backend for broadcast message and deploy this application with share hosting render.com. </p>
 <h2><a href="">🌱 Attendance System Tracking using Facial recognition in year 3 </a></h2>
-<p> this website and system we are using laravel for full stack and we deploy it by using docker, and for attendance tracking we are using <b> face recognition </b>  by using python and apply it in <b>raspberrypi</b>  for recording attendance  </p>
+<p> this website and system we are using laravel for full stack and we deploy it by using docker, and for attendance tracking we are using <b style="color:blue;"> face recognition </b>  by using python and apply it in <b>raspberrypi</b>  for recording attendance  </p>
 
 <h3>Open source projects</h3>
 <table>
