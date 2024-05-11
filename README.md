@@ -78,8 +78,8 @@
 
 
 <h1 align=left><b>🚀 Bachelor's degree project:</b></h1>
-<h2><a href="https://www.researchgate.net/publication/376751387_Animal_Classification_using_Convolutional_Neural_Network">🌱 7-Segment Display in year 1  </a></h2>
-<p> It's a type of electronic display device that can show numerals and some basic characters by illuminating specific segments. It consists of seven individual segments arranged in the shape of the number "8." Each segment can be independently controlled to display different numbers or characters. </p>
+<h2><a href="https://www.researchgate.net/publication/376751387_Animal_Classification_using_Convolutional_Neural_Network">🌱 7-Segment Display in Y1S1  </a></h2>
+<p> It's a type of electronic display device that can show numerals and some basic characters by illuminating specific segments we are using $\color{yellow}{proteus}$. It consists of seven individual segments arranged in the shape of the number $\color{yellow}{"8."}$ Each segment can be independently controlled to display different numbers or characters. </p>
 <h2><a href="">🌱 Liquid Crystal Display ( LCD ) in Y1S1 </a></h2>
 <p> I has been learnt how to controlled an LCD by using an Arduino with C++, First I gather the necessary components ( Arduino board, LCD 16 x 2, Jumper wires and Potentiometer [For adjusting contrast] ). The second I'm using jumper wires connect to corresponding pin and combination potentiometer for adjust lighting of LCD. The last one is upload the code to the Arduino by using C++. </p>
 <h2><a href="">🌱 Internship As Graphic Designer in Y1S1</a></h2>
