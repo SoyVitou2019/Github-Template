@@ -73,8 +73,10 @@
 <p> this involves student for build their innovative ideas as the prototype for competitive  </p>
 <h2><a href="https://www.facebook.com/UniversityIndustryCooperationCenter">📝 Interviewer in C4C offered by USAID  </a></h2>
 <p> we are interviewing for recruitment cloud for Cambodia </p>
-<h2><a href="https://web.facebook.com/gameclubferupp">📝 Founder of game club  </a></h2>
+<h2><a href="https://web.facebook.com/gameclubferupp">🤵‍♂️ Founder of game club  </a></h2>
 <p> I am a founder of Game Club with Koungmeng and still operate it for a year, we have a lot of activites such as game jam, game development, game competition, Casual games etc ...  </p>
+<h2><a href="">👷‍♂️ Internship As Graphic Designer in Y1S1</a></h2>
+<p> During my internship as a graphic designer, I had the opportunity to immerse myself in the real world situation, real world problem. Working closely with a team of experienced like Bong Neak Sokkim. This is the time that I has contributed creative ideas and collaborated with senior designer and developer. </p>
 
 
 <h1 align=left><b>🚀 Bachelor's degree project:</b></h1>
@@ -82,8 +84,6 @@
 <p> It's a type of electronic display device that can show numerals and some basic characters by illuminating specific segments we are using $\color{yellow}{proteus}$. It consists of seven individual segments arranged in the shape of the number $\color{yellow}{"8."}$ Each segment can be independently controlled to display different numbers or characters. </p>
 <h2><a href="">🌱 Liquid Crystal Display ( LCD ) in Y1S1 </a></h2>
 <p> I has been learnt how to controlled an LCD by using an Arduino with C++, First I gather the necessary components ( Arduino board, LCD 16 x 2, Jumper wires and Potentiometer [For adjusting contrast] ). The second I'm using jumper wires connect to corresponding pin and combination potentiometer for adjust lighting of LCD. The last one is upload the code to the Arduino by using C++. </p>
-<h2><a href="">🌱 Internship As Graphic Designer in Y1S1</a></h2>
-<p> During my internship as a graphic designer, I had the opportunity to immerse myself in the real world situation, real world problem. Working closely with a team of experienced like Bong Neak Sokkim. This is the time that I has contributed creative ideas and collaborated with senior designer and developer. </p>
 <h2><a href="">🌱 Map 2D System of RUPP using Unity Y1S2</a></h2>
 <p> I'm using Unity engine for create a feature of mapping system to show directions and show a basic information of RUPP and display image has capture by our team in those time.</p>
 <h2><a href="">🌱 Kid Game in Scratch engine Y1S2 </a></h2>
