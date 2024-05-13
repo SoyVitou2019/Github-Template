@@ -77,7 +77,7 @@
 <p> I am a founder of Game Club with Koungmeng and still operate it for a year, we have a lot of activites such as game jam, game development, game competition, Casual games etc ...  </p>
 <h2><a href="">👷‍♂️ Internship As Graphic Designer in Y1S1</a></h2>
 <p> During my internship as a graphic designer, I had the opportunity to immerse myself in the real world situation, real world problem. Working closely with a team of experienced like Bong Neak Sokkim. This is the time that I has contributed creative ideas and collaborated with senior designer and developer. </p>
-<h2><a href="">👷‍♂️ Participated in Data Analytic BootCamp Y2S1 </a></h2>
+<h2><a href="">😶‍🌫️ Participated in Data Analytic BootCamp Y2S1 </a></h2>
 <p> I have learnt about Mathematics, statistics, programming python, excel, data visualize, database management, business and industry knowledge, and we learnt all this thing in one week</p>
 
 
