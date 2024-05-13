@@ -68,7 +68,7 @@
 
 <h1 align=left>🚀 Bachelor's degree activities:</h1>
 <h2><a href="https://www.facebook.com/UniversityIndustryCooperationCenter">🌱 Teacher assistant </a></h2>
-<p> I worked as teacher assistant and advise to student around 30 teams for complete their project in two year they are in year 2.  </p>
+<p> I worked as teacher assistant and advise to student around 30 teams for complete their project and I am a evaulator on their project also we do the presentation and evaulation based on the criteria we setted.  </p>
 <h2><a href="https://www.facebook.com/UniversityIndustryCooperationCenter">🌱 Mentoring at Heineken Sustainathon  </a></h2>
 <p> this involves student for build their innovative ideas as the prototype for competitive  </p>
 <h2><a href="https://www.facebook.com/UniversityIndustryCooperationCenter">📝 Interviewer in C4C offered by USAID  </a></h2>
